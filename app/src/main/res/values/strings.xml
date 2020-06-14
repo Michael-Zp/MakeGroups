@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MakeGroup</string>
+    <string name="group">Manage members</string>
+    <string name="first">Who\ngoes\nfirst?</string>
+    <string name="two_teams">Create\ntwo\nteams</string>
+    <string name="n_teams">Create\nmultiple\nteams</string>
+    <string name="name">Name</string>
+    <string name="number_of_teams">2</string>
+</resources>

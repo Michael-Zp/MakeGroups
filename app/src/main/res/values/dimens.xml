@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin_end">20dp</dimen>
+    <dimen name="fab_margin_bot">80dp</dimen>
+    <dimen name="text_view_button_margin">15dp</dimen>
+    <dimen name="divider_horizontal_size">5dp</dimen>
+    <dimen name="divider_vertical_size">5dp</dimen>
+    <dimen name="text_size">30sp</dimen>
+</resources>
